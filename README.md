@@ -1,4 +1,6 @@
-# VP Autoplayer 🎹
+# VP Autoplayer 🎹 (Roblox)
+
+**This tool has been specifically developed for use on Roblox.**
 
 **VP Autoplayer** is a desktop tool that plays song sheets automatically in sync with [virtualpiano.net](https://virtualpiano.net/), simulating human performance. It's ideal for casual music lovers, performers, or anyone looking to bring Virtual Piano sheets to life with realism and rhythm.
 
