@@ -97,7 +97,7 @@ Example sheet with metadata:
 Want to help improve VP Autoplayer?  
 Check out [CONTRIBUTING.md](./CONTRIBUTING.md) and open a pull request!
 
-Make sure to [add a star ⭐](https://github.com/your-username/your-repo) if you like the project!
+Make sure to [add a star ⭐](https://github.com/DayLime/VP-Autoplayer/) if you like the project!
 
 ---
 
