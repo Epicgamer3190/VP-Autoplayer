@@ -48,6 +48,16 @@ Look under the **Music Sheets** tab and copy the content into a `.txt` file.
 
 ---
 
+## 🧠 Sheet Format & Metadata
+
+Humanizer is designed to work like this:
+- 0% ⇒ Disabled. It will play the song with 100% accuracy.
+- 0–49 %  ⇒ Near-Perfect timing, but is obviously Autoplay.
+- 50–74 % ⇒ Realistic but still skilled player.
+- 75–100 % ⇒ Moves slower and is very sloppy. Mimmicks the average humans physical limitations.
+
+---
+
 ## 💡 Tip for Matching Timing
 
 If a song plays too fast or slow, **adjust the Subdivision** until the total duration **matches** the playback on the Virtual Piano site. Try round values like `2`, `4`, or `8`. If that doesnt work you can use float values(ex. 2.32, 1.45) to get the exact time and it should work fine.
