@@ -66,6 +66,13 @@ If a song plays too fast or slow, **adjust the Subdivision** until the total dur
 
 ---
 
+## 🔧 Config
+
+All global settings are saved in `vp_autoplayer.json` in the same folder as the EXE.
+Sheet specific configs are saved within the Sheet metadata.
+
+---
+
 ## 📁 Sheet Format & Metadata
 
 Example sheet with metadata:
@@ -73,12 +80,6 @@ Example sheet with metadata:
 #META {"bpm": 100, "subdiv": 4, "note": "Transposed -1"}
 [A F G] r r u o | s d f | o f f f d x
 ```
----
-
-## 🔧 Config
-
-All settings are saved in `vp_autoplayer.json` in the same folder as the EXE.
-
 ---
 
 ## 🖥 Requirements
