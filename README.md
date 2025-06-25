@@ -33,7 +33,7 @@
    Select a song from the dropdown list.
 
 4. **Set the Target Window**  
-   Choose the window where notes should be sent (e.g. your browser with [virtualpiano.net](https://virtualpiano.net/)).
+   Choose the window where notes should be sent (e.g. Roblox).
 
 5. **Start Playback**  
    Press ▶ or hit `F4` to toggle play/pause.
