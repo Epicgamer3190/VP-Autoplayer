@@ -4,6 +4,8 @@
 
 **VP Autoplayer** is a desktop tool that plays song sheets automatically in sync with [virtualpiano.net](https://virtualpiano.net/), simulating human performance. It's ideal for casual music lovers, performers, or anyone looking to bring Virtual Piano sheets to life with realism and rhythm.
 
+**Get the latest version:** https://github.com/DayLime/VP-Autoplayer/releases/tag/v1.0.0
+
 ---
 
 ## ✨ Features
