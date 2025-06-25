@@ -89,6 +89,8 @@ Example sheet with metadata:
 - Windows 10 or later
 - No Python or installation needed
 
+> ⚠️ **Note:** VP Autoplayer is currently only available for **Windows**.
+
 ---
 
 © 2025 VP Autoplayer — Not affiliated with VirtualPiano.net
