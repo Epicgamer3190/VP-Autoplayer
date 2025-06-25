@@ -90,6 +90,14 @@ Example sheet with metadata:
 - No Python or installation needed
 
 > ⚠️ **Note:** VP Autoplayer is currently only available for **Windows**.
+---
+
+## 🤝 Contributing
+
+Want to help improve VP Autoplayer?  
+Check out [CONTRIBUTING.md](./CONTRIBUTING.md) and open a pull request!
+
+Make sure to [add a star ⭐](https://github.com/your-username/your-repo) if you like the project!
 
 ---
 
